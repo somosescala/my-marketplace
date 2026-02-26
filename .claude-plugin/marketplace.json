@@ -1,0 +1,21 @@
+{
+  "name": "somosescala",
+  "owner": {
+    "name": "Somos Escala"
+  },
+  "metadata": {
+    "description": "Plugins de marketing digital y Meta Ads para agencias y emprendedores"
+  },
+  "plugins": [
+    {
+      "name": "meta-campaign-analyzer",
+      "source": {
+        "source": "github",
+        "repo": "somosescala/meta-campaign-analyzer"
+      },
+      "description": "Analiza campañas de Facebook e Instagram con la metodología de las 3 Q's",
+      "version": "1.0.0",
+      "category": "marketing"
+    }
+  ]
+}
