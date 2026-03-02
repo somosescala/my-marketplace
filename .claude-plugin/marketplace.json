@@ -16,6 +16,16 @@
       "description": "Analiza campañas de Facebook e Instagram con la metodología de las 3 Q's",
       "version": "1.0.0",
       "category": "marketing"
+    },
+    {
+      "name": "seo-local",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/somosescala/seo-local.git"
+      },
+      "description": "Skill de SEO local para negocios",
+      "version": "1.0.0",
+      "category": "marketing"
     }
   ]
 }
